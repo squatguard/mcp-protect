@@ -1,6 +1,6 @@
 {
   "name": "mcp-protect",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "main": "index.js",
   "type": "module",
   "repository": {
